@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android TPC Connector.Android", "Android TPC Connector\Android TPC Connector.Android\Android TPC Connector.Android.csproj", "{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Android TPC Connector", "Android TPC Connector\Android TPC Connector\Android TPC Connector.csproj", "{6E332033-A2A0-43DC-A329-51085B6BFA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A9BDD0-90A4-488A-9EFD-10C7BE843B8B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6E332033-A2A0-43DC-A329-51085B6BFA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E332033-A2A0-43DC-A329-51085B6BFA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E332033-A2A0-43DC-A329-51085B6BFA3A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6E332033-A2A0-43DC-A329-51085B6BFA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E332033-A2A0-43DC-A329-51085B6BFA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E332033-A2A0-43DC-A329-51085B6BFA3A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33AD5AE7-E8C4-4DB5-8937-210A4744FB50}
+	EndGlobalSection
+EndGlobal
