@@ -1,0 +1,17 @@
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\Android TPC Connector.deps.json
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\Android TPC Connector.dll
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\ref\Android TPC Connector.dll
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\Android TPC Connector.pdb
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\Mono.Android.dll
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Release\netstandard2.0\Mono.Android.xml
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.csproj.CopyComplete
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.dll
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\ref\Android TPC Connector.dll
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.pdb
