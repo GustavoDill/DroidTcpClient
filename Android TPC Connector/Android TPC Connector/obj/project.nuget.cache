@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "h9a7P0guXCeuAAq68BA0lgwdA7vjjxZI/+WB8Ncc2e2d2O9HdZDFi2P5/TF7EQNfyGnCYeD15Q76X6eorIsEiA==",
+  "dgSpecHash": "UWSba+kTrXqlxbp+A97SVz2cbjnfR5Qs/4jjWK4VFyftjXBjizyzwRWtOB5K4HGjBNXo7bOgwKgcQ3NfiMR3BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
+  "projectFilePath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Gustavo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\Gustavo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Valdir\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Valdir\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Valdir\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Users\\Gustavo\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
   "logs": []
 }

@@ -34,3 +34,22 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\ref\Android TPC Connector.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.pdb
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\Android TPC Connector.deps.json
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\Android TPC Connector.dll
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\ref\Android TPC Connector.dll
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\Android TPC Connector.pdb
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.csprojAssemblyReference.cache
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\ServerPage.xaml.g.cs
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.AssemblyInfoInputs.cache
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.AssemblyInfo.cs
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.csproj.CoreCompileInputs.cache
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\XamlC.stamp
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.csproj.CopyComplete
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.dll
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\ref\Android TPC Connector.dll
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Debug\netstandard2.0\Android TPC Connector.pdb

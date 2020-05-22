@@ -24,7 +24,7 @@ namespace Android_TPC_Connector.Droid
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
-            MainPage.AppContext = this;
+            ClientPage.AppContext = this;
             ph.RequestAllPermissions();
         }
         PermissionHandler ph;

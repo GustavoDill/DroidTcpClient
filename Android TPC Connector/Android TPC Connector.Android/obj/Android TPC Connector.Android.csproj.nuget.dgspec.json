@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj": {}
+    "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj": {
+    "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
+        "projectUniqueName": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
         "projectName": "Android TPC Connector.Android",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\obj\\",
+        "projectPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
+        "packagesPath": "C:\\Users\\Valdir\\.nuget\\packages\\",
+        "outputPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Valdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
-                "projectPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj"
+              "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
+                "projectPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
+    "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
+        "projectUniqueName": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
         "projectName": "Android TPC Connector",
-        "projectPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
-        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\obj\\",
+        "projectPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
+        "packagesPath": "C:\\Users\\Valdir\\.nuget\\packages\\",
+        "outputPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Valdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -117,7 +117,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

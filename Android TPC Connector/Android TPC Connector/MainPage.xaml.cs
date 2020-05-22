@@ -11,10 +11,12 @@ namespace Android_TPC_Connector
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
-    public partial class MainPage : ContentPage
+    public partial class ClientPage : ContentPage
     {
         public static Activity AppContext;
-        public MainPage()
+        public event EventHandler ServerModeRequested;
+        public App Application { get; set; }
+        public ClientPage()
         {
             InitializeComponent();
             BindingContext = this;
@@ -89,6 +91,10 @@ namespace Android_TPC_Connector
                     }
                 } while (false);
             }
+        }
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            ServerModeRequested?.Invoke(this, e);
         }
     }
 }
