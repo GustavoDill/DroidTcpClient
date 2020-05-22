@@ -1,0 +1,7 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Android TPC Connector/Android TPC Connector/bin/Debug/netstandard2.0/ref
+/Android TPC Connector/Android TPC Connector/bin
+/Android TPC Connector/Android TPC Connector.Android/bin
