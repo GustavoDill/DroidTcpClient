@@ -21,13 +21,22 @@
             <Grid>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="Auto" />
-                    <RowDefinition Height="Auto" />
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*"/>
                 </Grid.ColumnDefinitions>
                 <Button Clicked="btncnt_Clicked"  Text="Start server" x:Name="btncnt" Grid.Row="0" Grid.Column="0" />
-                <Entry HeightRequest="75" x:Name="smsg" Placeholder="Broadcast" Grid.Row="1" Grid.Column="0" IsReadOnly="False" />
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="80*" />
+                    <ColumnDefinition Width="20*" />
+                </Grid.ColumnDefinitions>
+                <Entry HeightRequest="75" x:Name="smsg" Placeholder="Broadcast" Grid.Row="0" Grid.Column="0" IsReadOnly="False" />
+                <Button x:Name="broadcastBtn" Grid.Row="0" Grid.Column="1" Clicked="broadcastBtn_Clicked" />
             </Grid>
             <Grid Margin="0,50">
                 <Grid.RowDefinitions>
@@ -48,7 +57,24 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto" />
                 </Grid.ColumnDefinitions>
-                <ListView x:Name="clientLister" Grid.Row="0" Grid.Column="0">
+                <ListView SeparatorColor="RoyalBlue" x:Name="clientLister" Grid.Row="0" Grid.Column="0" ItemsSource="{Binding ClientDisplayers}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="60*" />
+                                        <ColumnDefinition Width="40*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Ip}" Grid.Column="0" />
+                                    <Label Text="{Binding Port}" Grid.Column="1" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
                 </ListView>
             </Grid>
         </StackLayout>
