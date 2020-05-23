@@ -89,7 +89,7 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto" />
                 </Grid.ColumnDefinitions>
-                <ListView ItemSelected="clientLister_ItemSelected" SeparatorColor="RoyalBlue" x:Name="clientLister" Grid.Row="0" Grid.Column="0" ItemsSource="{Binding ClientDisplayers}">
+                <ListView ItemTapped="clientLister_ItemSelected" SeparatorColor="RoyalBlue" x:Name="clientLister" Grid.Row="0" Grid.Column="0" ItemsSource="{Binding ClientDisplayers}">
                     <ListView.ItemTemplate>
                         <DataTemplate>
                             <ViewCell>

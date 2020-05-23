@@ -824,3 +824,4 @@ D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC 
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.aab
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.apks
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\com\dill\android_tpc_connector\R.java
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\stamp\_CleanIntermediateIfNeeded.stamp

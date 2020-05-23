@@ -7,7 +7,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.ComponentModel;
-using System.Diagnostics;
 using System.Globalization;
 using System.Linq;
 using System.Net;
@@ -24,22 +23,94 @@ namespace AndroidExtendedCommands
 {
     namespace Dialogs
     {
+        public class DialogResult : EventArgs
+        {
+            public DialogResult()
+            {
+
+            }
+            public DialogResult(string content, string result)
+            {
+                Content = content;
+                Result = result;
+            }
+            public static implicit operator DialogResult(string v)
+            {
+                switch (v)
+                {
+                    case "": return new DialogResult(v, "Cancel");
+                    default: return new DialogResult(v, "OK");
+                }
+            }
+
+            public static implicit operator string(DialogResult v)
+            {
+                return v.Content;
+            }
+
+            public string Content { get; }
+            public string Result { get; }
+
+            public override string ToString()
+            {
+                return Content;
+            }
+        }
+        public class MultiDialogResult : EventArgs
+        {
+            public MultiDialogResult()
+            {
+                CheckedItems = new bool[0];
+                Items = new string[0];
+            }
+            public MultiDialogResult(string[] items, bool[] checkedItems)
+            {
+                Items = items;
+                CheckedItems = checkedItems;
+            }
+            public string[] Items { get; }
+            public bool[] CheckedItems { get; }
+        }
+
         public static class ItemSelection
         {
-            public static string GetSingleSelect(Activity appContext, string[] items, string title, string positiveButton = "OK", string negativeButton = "Cancel")
+            public static void ShowSingleSelect(Activity appContext, string[] items, string title, EventHandler<DialogResult> onResult)
             {
-                //bool returned = false;
-                string returnString = null;
-                var alert = CreateSingleSelect(appContext, items, title, positiveButtonClick: (sender, args) =>
+                var alert = new AlertDialog.Builder(appContext);
+                int selected = -1;
+                alert.SetTitle(title);
+                alert.SetPositiveButton("OK", (sender, e) =>
                 {
-                    returnString = items[args.Which];
-                    //returned = true;
-                }, negativeButtonClick: (sender, args) =>
-                {
-                    //returned = true;
+                    onResult(sender, items[selected]);
                 });
-                alert.Create().Show();
-                return returnString;
+                alert.SetNegativeButton("Cancel", (sender, e) =>
+                {
+                    onResult(sender, "");
+                });
+                alert.SetSingleChoiceItems(items, -1, (sender, e) =>
+                {
+                    selected = e.Which;
+                });
+                alert.Show();
+            }
+            public static void ShowMultiSelect(Activity appContext, string[] items, string title, EventHandler<MultiDialogResult> onResult)
+            {
+                var alert = new AlertDialog.Builder(appContext);
+                alert.SetTitle(title);
+                bool[] selected = new bool[items.Length];
+                alert.SetPositiveButton("OK", (sender, e) =>
+                {
+                    onResult(sender, new MultiDialogResult(items, selected));
+                });
+                alert.SetNegativeButton("Cancel", (sender, e) =>
+                {
+                    onResult(sender, new MultiDialogResult(items, new bool[0]));
+                });
+                alert.SetMultiChoiceItems(items, selected, (sender, e) =>
+                {
+                    selected[e.Which] = e.IsChecked;
+                });
+                alert.Show();
             }
             public static AlertDialog.Builder CreateSingleSelect(Activity appContext, string[] items, string title, string positiveButton = "OK", string negativeButton = "Cancel", EventHandler<Android.Content.DialogClickEventArgs> positiveButtonClick = null, EventHandler<Android.Content.DialogClickEventArgs> negativeButtonClick = null, EventHandler<Android.Content.DialogClickEventArgs> itemSelected = null)
             {
@@ -1776,7 +1847,7 @@ namespace AndroidExtendedCommands
 
                         if ((output[output.Length - 1] != '\n') || !ignore_repeated.Value)
                         {
-                            output.Append(Environment.NewLine);
+                            output.Append(System.Environment.NewLine);
                         }
 
                         for (var i = 0; i < indent_level; i++)
@@ -5014,22 +5085,6 @@ namespace AndroidExtendedCommands
                         if (res.Substring(0, (@namespace + "." + directory).Length) == @namespace + "." + directory)
                             s.Add(res);
                     return s.ToArray();
-                }
-                public static void RunFromEmbeddedResource(string ResourcePath)
-                {
-                    Export(ResourcePath, Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Temp\\" + ResourcePath);
-                    Process.Start(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Temp\\" + ResourcePath);
-                }
-                public static void RunFromEmbeddedResource(System.Reflection.Assembly assembly, string ResourcePath)
-                {
-                    Export(assembly, ResourcePath, Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Temp\\" + ResourcePath);
-                    Process.Start(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Temp\\" + ResourcePath);
-                }
-                public static void RunFromEmbeddedResource(string assemblyPath, string ResourcePath)
-                {
-
-                    Export(assemblyPath, ResourcePath, Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Temp\\" + ResourcePath);
-                    Process.Start(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\Temp\\" + ResourcePath);
                 }
                 public static System.Reflection.Assembly LoadAssemblyFromEmbeddedResource(string FilePath, string ResourcePath)
                 {

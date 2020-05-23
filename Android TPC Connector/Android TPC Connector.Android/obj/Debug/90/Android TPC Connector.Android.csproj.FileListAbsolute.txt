@@ -476,10 +476,6 @@ D:\.ProgramsVS\.Projects\Android TPC Connector\Android TPC Connector\Android TPC
 D:\.ProgramsVS\.Projects\Android TPC Connector\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\Android TPC Connector.Android.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\Android TPC Connector.Android.pdb
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.companyname.android_tpc_connector.apk
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.companyname.android_tpc_connector.aab
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.companyname.android_tpc_connector-Signed.aab
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.companyname.android_tpc_connector-Signed.apk
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\Android TPC Connector.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\Android TPC Connector.pdb
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -505,10 +501,7 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\Android TPC Connector.Android.csproj.CopyComplete
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\Android TPC Connector.Android.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\Android TPC Connector.Android.pdb
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.companyname.android_tpc_connector.apk
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\base.zip
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.companyname.android_tpc_connector.aab
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.companyname.android_tpc_connector.apks
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\res\layout\tabbar.xml
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\res\layout\toolbar.xml
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\res\values\styles.xml
@@ -656,7 +649,6 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\com\companyname\android_tpc_connector\R.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\crc6405e4e4b2013b86ae\MainActivity.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
@@ -1432,3 +1424,12 @@ D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC 
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.dill.android_tpc_connector.aab
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.dill.android_tpc_connector.apks
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\com\dill\android_tpc_connector\R.java
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.dill.android_tpc_connector.apk
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.dill.android_tpc_connector.aab
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.dill.android_tpc_connector-Signed.aab
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Debug\com.dill.android_tpc_connector-Signed.apk
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.dill.android_tpc_connector.apk
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.dill.android_tpc_connector.aab
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\bin\com.dill.android_tpc_connector.apks
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\android\src\com\dill\android_tpc_connector\R.java
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Debug\90\stamp\_CleanIntermediateIfNeeded.stamp

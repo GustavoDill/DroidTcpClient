@@ -1,7 +1,10 @@
-﻿using AndroidExtendedCommands.CSharp.DataTypeExtensions.RegularExpressions;
+﻿using Android.Widget;
+using AndroidExtendedCommands.CSharp.DataTypeExtensions.RegularExpressions;
 using AndroidExtendedCommands.CSharp.Web.Communication;
+using AndroidExtendedCommands.Dialogs;
 using System;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,7 +20,7 @@ namespace Android_TPC_Connector
             clients = new Dictionary<int, TCPClient>();
             ClientDisplayers = new List<ClientDisplayer>()
             {
-                new ClientDisplayer(){Ip = "Temp ip", Port = "Haha", Id= "1"}
+                //new ClientDisplayer(){Ip = "Temp ip", Port = "Haha", Id= "1"}
             };
             BindingContext = this;
         }
@@ -44,9 +47,8 @@ namespace Android_TPC_Connector
             //});
             //Dialog dialog = alert.Create();
             //dialog.Show();
-            var s = AndroidExtendedCommands.Dialogs.ItemSelection.GetSingleSelect(ClientPage.AppContext, new string[] { "Item", "Item " }, "Select item");
-            Device.BeginInvokeOnMainThread(() => smsg.Text = s);
-            //ClientModeRequested?.Invoke(this, e);
+            //s.Wait();
+            ClientModeRequested?.Invoke(this, e);
         }
         TCPServer server;
         //Thread t;
@@ -145,9 +147,27 @@ namespace Android_TPC_Connector
         public object oldSel;
         private void clientLister_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
+            if (oldSel == null)
+            {
+                oldSel = e.SelectedItem;
+                Device.BeginInvokeOnMainThread(() => disconnectBtn.IsEnabled = e.SelectedItemIndex != -1);
+                return;
+            }
+            if (oldSel == e.SelectedItem)
+            {
+                ItemSelection.ShowSingleSelect(ClientPage.AppContext, new string[] { "Task #1", "Task #2" }, "Select action", (s, args) =>
+                {
+                    FindClient(e.SelectedItem.ToString()).SendString(args);
+                    Device.BeginInvokeOnMainThread(() => Toast.MakeText(ClientPage.AppContext, "Command '" + args + "' sent to client", ToastLength.Short));
+                });
+
+            }
             Device.BeginInvokeOnMainThread(() => disconnectBtn.IsEnabled = e.SelectedItemIndex != -1);
         }
-
+        TCPClient FindClient(string identifier)
+        {
+            return clients[int.Parse(Regex.Match(identifier, @"[iI][dD]: ?(\d+)").Groups[1].Value)];
+        }
         private void disconnectBtn_Clicked(object sender, EventArgs e)
         {
             if (!disconnectBtn.IsEnabled)
