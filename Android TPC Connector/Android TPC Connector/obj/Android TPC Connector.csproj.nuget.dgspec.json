@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {}
+    "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {}
   },
   "projects": {
-    "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
+    "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
         "projectName": "Android TPC Connector",
-        "projectPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
-        "packagesPath": "C:\\Users\\Valdir\\.nuget\\packages\\",
-        "outputPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\obj\\",
+        "projectPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Valdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -67,7 +67,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

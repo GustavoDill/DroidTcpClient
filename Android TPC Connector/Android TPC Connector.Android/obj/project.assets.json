@@ -1969,24 +1969,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Valdir\\.nuget\\packages\\": {},
+    "C:\\Users\\Gustavo\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
       "projectName": "Android TPC Connector.Android",
-      "projectPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
-      "packagesPath": "C:\\Users\\Valdir\\.nuget\\packages\\",
-      "outputPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\obj\\",
+      "projectPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\Android TPC Connector.Android.csproj",
+      "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Valdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
-              "projectPath": "D:\\.ProgramsVS\\.Projects\\Repos\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj"
+            "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj": {
+              "projectPath": "C:\\Users\\Gustavo\\Desktop\\DroidTcpClient\\Android TPC Connector\\Android TPC Connector\\Android TPC Connector.csproj"
             }
           }
         }

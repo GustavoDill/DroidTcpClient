@@ -34,3 +34,5 @@ D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC 
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.dll
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\ref\Android TPC Connector.dll
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.pdb
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\ServerPage.xaml.g.cs
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector\obj\Release\netstandard2.0\Android TPC Connector.csprojAssemblyReference.cache

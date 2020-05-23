@@ -1,9 +1,5 @@
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.Android.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.Android.pdb
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector.apk
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector.aab
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector-Signed.aab
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector-Signed.apk
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.pdb
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -13,27 +9,13 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\_VerifyXamarinAndroidSupportVersions.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res.flag
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\B592CF41771E7620.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\F1D6A088621E6B18.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\E1C71DAD351E1FF8.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\32EF9309B438E083.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\499E597C73798CE1.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\75F3DC3CC15BB86E.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\FD7B02AEEA5B821E.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\B93F6D67FF5B9F26.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\65E26119965BCC8E.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\3E42312F3C7D0985.stamp
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\7A065EE6297D14BD.stamp
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\B592CF41771E7620.flata
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\F1D6A088621E6B18.flata
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\E1C71DAD351E1FF8.flata
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\32EF9309B438E083.flata
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\499E597C73798CE1.flata
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\75F3DC3CC15BB86E.flata
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\FD7B02AEEA5B821E.flata
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\B93F6D67FF5B9F26.flata
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\65E26119965BCC8E.flata
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\3E42312F3C7D0985.flata
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\7A065EE6297D14BD.flata
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\compiled.flata
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\R.txt
@@ -43,10 +25,7 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\Android TPC Connector.Android.csproj.CopyComplete
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\Android TPC Connector.Android.dll
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\Android TPC Connector.Android.pdb
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.companyname.android_tpc_connector.apk
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\base.zip
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.companyname.android_tpc_connector.aab
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.companyname.android_tpc_connector.apks
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res\layout\tabbar.xml
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res\layout\toolbar.xml
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res\values\styles.xml
@@ -380,7 +359,6 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\packaged_resources
-C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\com\companyname\android_tpc_connector\R.java
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.jm.armeabi-v7a.o
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.mj.armeabi-v7a.o
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.jm.arm64-v8a.o
@@ -810,3 +788,39 @@ D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC 
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\environment.x86_64.o
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\app_shared_libraries\x86\libxamarin-app.so
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\2D0BACF60B1E38B0.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\76ABFCC0A138FDBB.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\D1073ACB0F79C271.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\0DDA36B5667991D9.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\31B7B3F5D45BA556.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\21A60ED0835BD1B6.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\093C6CFBA9B7DE32.stamp
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\2D0BACF60B1E38B0.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\76ABFCC0A138FDBB.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\D1073ACB0F79C271.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\0DDA36B5667991D9.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\31B7B3F5D45BA556.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\21A60ED0835BD1B6.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\flata\093C6CFBA9B7DE32.flata
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.jm.x86.s
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.jm.x86_64.s
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.mj.x86.s
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.mj.x86_64.s
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\environment.x86.s
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\environment.x86_64.s
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.jm.x86.o
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.mj.x86.o
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.jm.x86_64.o
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemap.mj.x86_64.o
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\environment.x86.o
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\environment.x86_64.o
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\app_shared_libraries\x86\libxamarin-app.so
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\app_shared_libraries\x86_64\libxamarin-app.so
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector.apk
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector.aab
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector-Signed.aab
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector-Signed.apk
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.apk
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.aab
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.apks
+C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\com\dill\android_tpc_connector\R.java
