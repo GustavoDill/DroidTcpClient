@@ -378,10 +378,6 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.Android.dll
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.Android.pdb
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector.apk
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector.aab
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector-Signed.aab
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.companyname.android_tpc_connector-Signed.apk
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.dll
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\Android TPC Connector.pdb
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -421,10 +417,7 @@ D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC 
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\Android TPC Connector.Android.csproj.CopyComplete
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\Android TPC Connector.Android.dll
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\Android TPC Connector.Android.pdb
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.companyname.android_tpc_connector.apk
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\base.zip
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.companyname.android_tpc_connector.aab
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.companyname.android_tpc_connector.apks
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res\layout\tabbar.xml
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res\layout\toolbar.xml
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\res\values\styles.xml
@@ -760,7 +753,6 @@ D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC 
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\packaged_resources
-D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\com\companyname\android_tpc_connector\R.java
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemaps.armeabi-v7a.o
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\typemaps.arm64-v8a.o
 D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\environment.armeabi-v7a.o
@@ -824,3 +816,11 @@ C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connec
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.aab
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.apks
 C:\Users\Gustavo\Desktop\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\com\dill\android_tpc_connector\R.java
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector.apk
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector.aab
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector-Signed.aab
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\bin\Release\com.dill.android_tpc_connector-Signed.apk
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.apk
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.aab
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\bin\com.dill.android_tpc_connector.apks
+D:\.ProgramsVS\.Projects\Repos\DroidTcpClient\Android TPC Connector\Android TPC Connector.Android\obj\Release\90\android\src\com\dill\android_tpc_connector\R.java

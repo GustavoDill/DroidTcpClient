@@ -23,8 +23,8 @@
 	.section	.rodata.env.str.1,"aMS",%progbits,1
 	.type	.L.env.str.1, %object
 .L.env.str.1:
-	.asciz	"com.companyname.android_tpc_connector"
-	.size	.L.env.str.1, 38
+	.asciz	"com.dill.android_tpc_connector"
+	.size	.L.env.str.1, 31
 	.section	.data.application_config,"aw",%progbits
 	.type	application_config, %object
 	.p2align	2
@@ -92,7 +92,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",%progbits,1
 	.type	.L.env.str.8, %object
 .L.env.str.8:
-	.asciz	"4fc2c181-a867-4bb2-ad06-ab731e4fa59e"
+	.asciz	"f2186505-3b28-4c9b-b76f-72e408bf5e1a"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",%progbits,1
 	.type	.L.env.str.9, %object

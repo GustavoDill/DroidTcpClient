@@ -22,6 +22,63 @@ using System.Xml.Serialization;
 
 namespace AndroidExtendedCommands
 {
+    namespace Dialogs
+    {
+        public static class ItemSelection
+        {
+            public static string GetSingleSelect(Activity appContext, string[] items, string title, string positiveButton = "OK", string negativeButton = "Cancel")
+            {
+                //bool returned = false;
+                string returnString = null;
+                var alert = CreateSingleSelect(appContext, items, title, positiveButtonClick: (sender, args) =>
+                {
+                    returnString = items[args.Which];
+                    //returned = true;
+                }, negativeButtonClick: (sender, args) =>
+                {
+                    //returned = true;
+                });
+                alert.Create().Show();
+                return returnString;
+            }
+            public static AlertDialog.Builder CreateSingleSelect(Activity appContext, string[] items, string title, string positiveButton = "OK", string negativeButton = "Cancel", EventHandler<Android.Content.DialogClickEventArgs> positiveButtonClick = null, EventHandler<Android.Content.DialogClickEventArgs> negativeButtonClick = null, EventHandler<Android.Content.DialogClickEventArgs> itemSelected = null)
+            {
+                var alert = new AlertDialog.Builder(appContext);
+                alert.SetTitle(title);
+                if (positiveButtonClick != null)
+                    alert.SetPositiveButton(positiveButton, positiveButtonClick);
+                else
+                    alert.SetPositiveButton(positiveButton, (sender, args) => { });
+                if (positiveButtonClick != null)
+                    alert.SetNegativeButton(negativeButton, negativeButtonClick);
+                else
+                    alert.SetNegativeButton(negativeButton, (sender, args) => { });
+                if (itemSelected != null)
+                    alert.SetSingleChoiceItems(items, -1, itemSelected);
+                else
+                    alert.SetSingleChoiceItems(items, -1, (sender, args) => { });
+                return alert;
+            }
+            public static AlertDialog.Builder CreateMultiSelect(Activity appContext, string[] items, bool[] checkedItems, string title, string positiveButton = "OK", string negativeButton = "Cancel", EventHandler<Android.Content.DialogClickEventArgs> positiveButtonClick = null, EventHandler<Android.Content.DialogClickEventArgs> negativeButtonClick = null, EventHandler<Android.Content.DialogMultiChoiceClickEventArgs> itemSelected = null)
+            {
+                var alert = new AlertDialog.Builder(appContext);
+                alert.SetTitle(title);
+                if (positiveButtonClick != null)
+                    alert.SetPositiveButton(positiveButton, positiveButtonClick);
+                else
+                    alert.SetPositiveButton(positiveButton, (sender, args) => { });
+                if (positiveButtonClick != null)
+                    alert.SetNegativeButton(negativeButton, negativeButtonClick);
+                else
+                    alert.SetNegativeButton(negativeButton, (sender, args) => { });
+                if (itemSelected != null)
+                    alert.SetMultiChoiceItems(items, checkedItems, itemSelected);
+                else
+                    alert.SetMultiChoiceItems(items, checkedItems, (sender, args) => { });
+                return alert;
+            }
+        }
+    }
     namespace Permissions
     {
         public class PermissionHandler
